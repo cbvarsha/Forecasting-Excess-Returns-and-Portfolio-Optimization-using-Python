@@ -1,0 +1,2 @@
+# Forecasting-Excess-Returns-and-Portfolio-Optimization-using-Python
+This project applies predictive modeling and portfolio optimization techniques to forecast excess returns of equities (S&amp;P 500) and bonds (Bloomberg Barclays Aggregate Bond Index) using monthly data from 1979–2023.  The study evaluates whether econometric forecasting models improve out-of-sample performance and risk-adjusted portfolio returns .
